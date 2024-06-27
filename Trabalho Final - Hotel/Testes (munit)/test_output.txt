@@ -1,0 +1,15 @@
+          Reservas          
+----------------------------
+Estadia Codigo: 1
+Cliente: João
+Quarto Numero: 101
+Data de Entrada: 01/06/2024 14:00
+Data de Saida: 03/06/2024 12:00
+----------------------------
+----------------------------
+Estadia Codigo: 2
+Cliente: Maria
+Quarto Numero: 102
+Data de Entrada: 02/06/2024 15:00
+Data de Saida: 04/06/2024 11:00
+----------------------------
